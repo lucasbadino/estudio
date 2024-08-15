@@ -1,0 +1,51 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv5KqTu3yfz6jDuvK6BFtCLVNLgWgmWMZQxQ&s");
+}
+
+.navbar-brand .logo {
+    height: 40px;
+    width: auto;
+}
+
+.navbar-nav .nav-link {
+    font-size: 16px;
+    font-weight: 500;
+    color: #5a5a5a;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #007bff;
+}
+
+.avatar img {
+    height: 40px;
+    width: 40px;
+    object-fit: cover;
+}
+
+.content {
+    background-color: #ffffff;
+}
+
+h1 {
+    font-size: 28px;
+    color: #333;
+    font-weight: bold;
+}
+
+p {
+    font-size: 16px;
+    color: #555;
+    line-height: 1.6;
+}
+
+footer {
+    background-color: #343a40;
+    color: #ffffff;
+}
+
+footer p {
+    margin: 0;
+}
